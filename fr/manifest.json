@@ -1,0 +1,567 @@
+{
+  "setName": "SV10.5W",
+  "setID": "sv10.5w",
+  "setReleaseDate": "2023-03-31",
+  "cards": [
+    {
+      "cardID": "087",
+      "cardName": "Larveyette",
+      "pokemonName_en": "Larveyette",
+      "rarity": "IR",
+      "pokedexNumber": 540,
+      "cardIllustrator": "nisimono"
+    },
+    {
+      "cardID": "088",
+      "cardName": "Couverdure",
+      "pokemonName_en": "Couverdure",
+      "rarity": "IR",
+      "pokedexNumber": 541,
+      "cardIllustrator": "0313"
+    },
+    {
+      "cardID": "089",
+      "cardName": "Manternel",
+      "pokemonName_en": "Manternel",
+      "rarity": "IR",
+      "pokedexNumber": 542,
+      "cardIllustrator": "mashu"
+    },
+    {
+      "cardID": "090",
+      "cardName": "Doudouvet",
+      "pokemonName_en": "Doudouvet",
+      "rarity": "IR",
+      "pokedexNumber": 546,
+      "cardIllustrator": "Keisin"
+    },
+    {
+      "cardID": "091",
+      "cardName": "Vivaldaim",
+      "pokemonName_en": "Vivaldaim",
+      "rarity": "IR",
+      "pokedexNumber": 585,
+      "cardIllustrator": "takashi shiraishi"
+    },
+    {
+      "cardID": "092",
+      "cardName": "Haydaim",
+      "pokemonName_en": "Haydaim",
+      "rarity": "IR",
+      "pokedexNumber": 586,
+      "cardIllustrator": "Yano Keiji"
+    },
+    {
+      "cardID": "093",
+      "cardName": "Escargaume",
+      "pokemonName_en": "Escargaume",
+      "rarity": "IR",
+      "pokedexNumber": 616,
+      "cardIllustrator": "Mékayu"
+    },
+    {
+      "cardID": "094",
+      "cardName": "Limaspeed",
+      "pokemonName_en": "Limaspeed",
+      "rarity": "IR",
+      "pokedexNumber": 617,
+      "cardIllustrator": "Taiga Kasai"
+    },
+    {
+      "cardID": "095",
+      "cardName": "Viridium",
+      "pokemonName_en": "Viridium",
+      "rarity": "IR",
+      "pokedexNumber": 640,
+      "cardIllustrator": "kodama"
+    },
+    {
+      "cardID": "096",
+      "cardName": "Gruikui",
+      "pokemonName_en": "Gruikui",
+      "rarity": "IR",
+      "pokedexNumber": 498,
+      "cardIllustrator": "Orca"
+    },
+    {
+      "cardID": "097",
+      "cardName": "Grotichon",
+      "pokemonName_en": "Grotichon",
+      "rarity": "IR",
+      "pokedexNumber": 499,
+      "cardIllustrator": "Masa"
+    },
+    {
+      "cardID": "098",
+      "cardName": "Roitiflam",
+      "pokemonName_en": "Roitiflam",
+      "rarity": "IR",
+      "pokedexNumber": 500,
+      "cardIllustrator": "NC Empire"
+    },
+    {
+      "cardID": "099",
+      "cardName": "Flamajou",
+      "pokemonName_en": "Flamajou",
+      "rarity": "IR",
+      "pokedexNumber": 513,
+      "cardIllustrator": "GOTO minori"
+    },
+    {
+      "cardID": "100",
+      "cardName": "Flamoutan",
+      "pokemonName_en": "Flamoutan",
+      "rarity": "IR",
+      "pokedexNumber": 514,
+      "cardIllustrator": "sowsow"
+    },
+    {
+      "cardID": "101",
+      "cardName": "Funécire",
+      "pokemonName_en": "Funécire",
+      "rarity": "IR",
+      "pokedexNumber": 607,
+      "cardIllustrator": "Naoyo Kimura"
+    },
+    {
+      "cardID": "102",
+      "cardName": "Mélancolux",
+      "pokemonName_en": "Mélancolux",
+      "rarity": "IR",
+      "pokedexNumber": 608,
+      "cardIllustrator": "Ligton"
+    },
+    {
+      "cardID": "103",
+      "cardName": "Lugulabre",
+      "pokemonName_en": "Lugulabre",
+      "rarity": "IR",
+      "pokedexNumber": 609,
+      "cardIllustrator": "Kuroimori"
+    },
+    {
+      "cardID": "104",
+      "cardName": "Aflamanoir",
+      "pokemonName_en": "Aflamanoir",
+      "rarity": "IR",
+      "pokedexNumber": 631,
+      "cardIllustrator": "Kariya"
+    },
+    {
+      "cardID": "105",
+      "cardName": "Moustillon",
+      "pokemonName_en": "Moustillon",
+      "rarity": "IR",
+      "pokedexNumber": 501,
+      "cardIllustrator": "OKACHEKE"
+    },
+    {
+      "cardID": "106",
+      "cardName": "Mateloutre",
+      "pokemonName_en": "Mateloutre",
+      "rarity": "IR",
+      "pokedexNumber": 502,
+      "cardIllustrator": "Taira Akitsu"
+    },
+    {
+      "cardID": "107",
+      "cardName": "Clamiral",
+      "pokemonName_en": "Clamiral",
+      "rarity": "IR",
+      "pokedexNumber": 503,
+      "cardIllustrator": "DOM"
+    },
+    {
+      "cardID": "108",
+      "cardName": "Bargantua",
+      "pokemonName_en": "Bargantua",
+      "rarity": "IR",
+      "pokedexNumber": 550,
+      "cardIllustrator": "Nakamura Ippan"
+    },
+    {
+      "cardID": "109",
+      "cardName": "Couaneton",
+      "pokemonName_en": "Couaneton",
+      "rarity": "IR",
+      "pokedexNumber": 580,
+      "cardIllustrator": "GIDORA"
+    },
+    {
+      "cardID": "110",
+      "cardName": "Lakmécygne",
+      "pokemonName_en": "Lakmécygne",
+      "rarity": "IR",
+      "pokedexNumber": 581,
+      "cardIllustrator": "Gemi"
+    },
+    {
+      "cardID": "111",
+      "cardName": "Sorbébé",
+      "pokemonName_en": "Sorbébé",
+      "rarity": "IR",
+      "pokedexNumber": 582,
+      "cardIllustrator": "Mina Nakai"
+    },
+    {
+      "cardID": "112",
+      "cardName": "Sorboul",
+      "pokemonName_en": "Sorboul",
+      "rarity": "IR",
+      "pokedexNumber": 583,
+      "cardIllustrator": "Yoko Hishida"
+    },
+    {
+      "cardID": "113",
+      "cardName": "Sorbouboul",
+      "pokemonName_en": "Sorbouboul",
+      "rarity": "IR",
+      "pokedexNumber": 584,
+      "cardIllustrator": "aoki"
+    },
+    {
+      "cardID": "114",
+      "cardName": "Zébibron",
+      "pokemonName_en": "Zébibron",
+      "rarity": "IR",
+      "pokedexNumber": 522,
+      "cardIllustrator": "Natsumi Miyanose"
+    },
+    {
+      "cardID": "115",
+      "cardName": "Zéblitz",
+      "pokemonName_en": "Zéblitz",
+      "rarity": "IR",
+      "pokedexNumber": 523,
+      "cardIllustrator": "REND"
+    },
+    {
+      "cardID": "116",
+      "cardName": "Statitik",
+      "pokemonName_en": "Statitik",
+      "rarity": "IR",
+      "pokedexNumber": 595,
+      "cardIllustrator": "HYOGONOSUKE"
+    },
+    {
+      "cardID": "117",
+      "cardName": "Mygavolt",
+      "pokemonName_en": "Mygavolt",
+      "rarity": "IR",
+      "pokedexNumber": 596,
+      "cardIllustrator": "Akira Komayama"
+    },
+    {
+      "cardID": "118",
+      "cardName": "Limonde",
+      "pokemonName_en": "Limonde",
+      "rarity": "IR",
+      "pokedexNumber": 618,
+      "cardIllustrator": "Toshinao Aoki"
+    },
+    {
+      "cardID": "119",
+      "cardName": "Chovsourir",
+      "pokemonName_en": "Chovsourir",
+      "rarity": "IR",
+      "pokedexNumber": 527,
+      "cardIllustrator": "Shibuzoh."
+    },
+    {
+      "cardID": "120",
+      "cardName": "Rhinolove",
+      "pokemonName_en": "Rhinolove",
+      "rarity": "IR",
+      "pokedexNumber": 528,
+      "cardIllustrator": "Saboteri"
+    },
+    {
+      "cardID": "121",
+      "cardName": "Cryptéro",
+      "pokemonName_en": "Cryptéro",
+      "rarity": "IR",
+      "pokedexNumber": 561,
+      "cardIllustrator": "mingo"
+    },
+    {
+      "cardID": "122",
+      "cardName": "Tutafeh",
+      "pokemonName_en": "Tutafeh",
+      "rarity": "IR",
+      "pokedexNumber": 562,
+      "cardIllustrator": "YASHIRO Nanaco"
+    },
+    {
+      "cardID": "123",
+      "cardName": "Tutankafer",
+      "pokemonName_en": "Tutankafer",
+      "rarity": "IR",
+      "pokedexNumber": 563,
+      "cardIllustrator": "Haru Akasaka"
+    },
+    {
+      "cardID": "124",
+      "cardName": "Scrutella",
+      "pokemonName_en": "Scrutella",
+      "rarity": "IR",
+      "pokedexNumber": 574,
+      "cardIllustrator": "Kanami Ogata"
+    },
+    {
+      "cardID": "125",
+      "cardName": "Mesmérella",
+      "pokemonName_en": "Mesmérella",
+      "rarity": "IR",
+      "pokedexNumber": 575,
+      "cardIllustrator": "Terada Tera"
+    },
+    {
+      "cardID": "126",
+      "cardName": "Viskuse",
+      "pokemonName_en": "Viskuse",
+      "rarity": "IR",
+      "pokedexNumber": 592,
+      "cardIllustrator": "Shinya Komatsu"
+    },
+    {
+      "cardID": "127",
+      "cardName": "Nodulithe",
+      "pokemonName_en": "Nodulithe",
+      "rarity": "IR",
+      "pokedexNumber": 524,
+      "cardIllustrator": "Yuriko Akase"
+    },
+    {
+      "cardID": "128",
+      "cardName": "Géolithe",
+      "pokemonName_en": "Géolithe",
+      "rarity": "IR",
+      "pokedexNumber": 525,
+      "cardIllustrator": "Krgc"
+    },
+    {
+      "cardID": "129",
+      "cardName": "Gigalithe",
+      "pokemonName_en": "Gigalithe",
+      "rarity": "IR",
+      "pokedexNumber": 526,
+      "cardIllustrator": "toi8"
+    },
+    {
+      "cardID": "130",
+      "cardName": "Karaclée",
+      "pokemonName_en": "Karaclée",
+      "rarity": "IR",
+      "pokedexNumber": 539,
+      "cardIllustrator": "nagimiso"
+    },
+    {
+      "cardID": "131",
+      "cardName": "Arkéapti",
+      "pokemonName_en": "Arkéapti",
+      "rarity": "IR",
+      "pokedexNumber": 566,
+      "cardIllustrator": "Ounishi"
+    },
+    {
+      "cardID": "132",
+      "cardName": "Aéroptéryx",
+      "pokemonName_en": "Aéroptéryx",
+      "rarity": "IR",
+      "pokedexNumber": 567,
+      "cardIllustrator": "Jerky"
+    },
+    {
+      "cardID": "133",
+      "cardName": "Kungfouine",
+      "pokemonName_en": "Kungfouine",
+      "rarity": "IR",
+      "pokedexNumber": 619,
+      "cardIllustrator": "Iori Suzuki"
+    },
+    {
+      "cardID": "134",
+      "cardName": "Shaofouine",
+      "pokemonName_en": "Shaofouine",
+      "rarity": "IR",
+      "pokedexNumber": 620,
+      "cardIllustrator": "Atsuya Uki"
+    },
+    {
+      "cardID": "135",
+      "cardName": "Terrakium",
+      "pokemonName_en": "Terrakium",
+      "rarity": "IR",
+      "pokedexNumber": 639,
+      "cardIllustrator": "Shiburingaru"
+    },
+    {
+      "cardID": "136",
+      "cardName": "Chacripan",
+      "pokemonName_en": "Chacripan",
+      "rarity": "IR",
+      "pokedexNumber": 509,
+      "cardIllustrator": "Mugi Hamada"
+    },
+    {
+      "cardID": "137",
+      "cardName": "Léopardus",
+      "pokemonName_en": "Léopardus",
+      "rarity": "IR",
+      "pokedexNumber": 510,
+      "cardIllustrator": "matazo"
+    },
+    {
+      "cardID": "138",
+      "cardName": "Baggiguane",
+      "pokemonName_en": "Baggiguane",
+      "rarity": "IR",
+      "pokedexNumber": 559,
+      "cardIllustrator": "Nelnal"
+    },
+    {
+      "cardID": "139",
+      "cardName": "Baggaïd",
+      "pokemonName_en": "Baggaïd",
+      "rarity": "IR",
+      "pokedexNumber": 560,
+      "cardIllustrator": "Tetsu Kayama"
+    },
+    {
+      "cardID": "140",
+      "cardName": "Miamiasme",
+      "pokemonName_en": "Miamiasme",
+      "rarity": "IR",
+      "pokedexNumber": 568,
+      "cardIllustrator": "Oswaldo KATO"
+    },
+    {
+      "cardID": "141",
+      "cardName": "Miasmax",
+      "pokemonName_en": "Miasmax",
+      "rarity": "IR",
+      "pokedexNumber": 569,
+      "cardIllustrator": "Gapao"
+    },
+    {
+      "cardID": "142",
+      "cardName": "Zorua",
+      "pokemonName_en": "Zorua",
+      "rarity": "IR",
+      "pokedexNumber": 570,
+      "cardIllustrator": "Naoki Saito"
+    },
+    {
+      "cardID": "143",
+      "cardName": "Zoroark",
+      "pokemonName_en": "Zoroark",
+      "rarity": "IR",
+      "pokedexNumber": 571,
+      "cardIllustrator": "Iwamoto05"
+    },
+    {
+      "cardID": "144",
+      "cardName": "Vostourno",
+      "pokemonName_en": "Vostourno",
+      "rarity": "IR",
+      "pokedexNumber": 629,
+      "cardIllustrator": "Saya Tsuruta"
+    },
+    {
+      "cardID": "145",
+      "cardName": "Vaututrice",
+      "pokemonName_en": "Vaututrice",
+      "rarity": "IR",
+      "pokedexNumber": 630,
+      "cardIllustrator": "Bun Toujo"
+    },
+    {
+      "cardID": "146",
+      "cardName": "Solochi",
+      "pokemonName_en": "Solochi",
+      "rarity": "IR",
+      "pokedexNumber": 633,
+      "cardIllustrator": "Teeziro"
+    },
+    {
+      "cardID": "147",
+      "cardName": "Diamat",
+      "pokemonName_en": "Diamat",
+      "rarity": "IR",
+      "pokedexNumber": 634,
+      "cardIllustrator": "Kyoko Umemoto"
+    },
+    {
+      "cardID": "148",
+      "cardName": "Grindur",
+      "pokemonName_en": "Grindur",
+      "rarity": "IR",
+      "pokedexNumber": 597,
+      "cardIllustrator": "Nurikabe"
+    },
+    {
+      "cardID": "149",
+      "cardName": "Noacier",
+      "pokemonName_en": "Noacier",
+      "rarity": "IR",
+      "pokedexNumber": 598,
+      "cardIllustrator": "Minahamu"
+    },
+    {
+      "cardID": "150",
+      "cardName": "Fermite",
+      "pokemonName_en": "Fermite",
+      "rarity": "IR",
+      "pokedexNumber": 632,
+      "cardIllustrator": "Scav"
+    },
+    {
+      "cardID": "151",
+      "cardName": "Drakkarmin",
+      "pokemonName_en": "Drakkarmin",
+      "rarity": "IR",
+      "pokedexNumber": 621,
+      "cardIllustrator": "Kamome Shirahama"
+    },
+    {
+      "cardID": "152",
+      "cardName": "Ratentif",
+      "pokemonName_en": "Ratentif",
+      "rarity": "IR",
+      "pokedexNumber": 504,
+      "cardIllustrator": "Yukihiro Tada"
+    },
+    {
+      "cardID": "153",
+      "cardName": "Miradar",
+      "pokemonName_en": "Miradar",
+      "rarity": "IR",
+      "pokedexNumber": 505,
+      "cardIllustrator": "Mousho"
+    },
+    {
+      "cardID": "154",
+      "cardName": "Ponchiot",
+      "pokemonName_en": "Ponchiot",
+      "rarity": "IR",
+      "pokedexNumber": 506,
+      "cardIllustrator": "Narumi Sato"
+    },
+    {
+      "cardID": "155",
+      "cardName": "Ponchien",
+      "pokemonName_en": "Ponchien",
+      "rarity": "IR",
+      "pokedexNumber": 507,
+      "cardIllustrator": "Makura Tami"
+    },
+    {
+      "cardID": "156",
+      "cardName": "Mastouffe",
+      "pokemonName_en": "Mastouffe",
+      "rarity": "IR",
+      "pokedexNumber": 508,
+      "cardIllustrator": "Eri Kamei"
+    }
+  ]
+}
